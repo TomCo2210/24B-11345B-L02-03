@@ -5,4 +5,6 @@
     <dimen name="flag_width">280dp</dimen>
     <dimen name="flag_height">200dp</dimen>
     <dimen name="bottom_margin_default">32dp</dimen>
+    <dimen name="hearts_width">140dp</dimen>
+    <dimen name="heart_dimention">40dp</dimen>
 </resources>

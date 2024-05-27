@@ -10,3 +10,12 @@
 - Resource Files - Strings, dimens, colors
 - Buttons
 
+## L03
+
+- Buttons
+- Data Models – builder Design Pattern
+- JavaBeans
+- Business Logic - Encapsulation, Code Layering
+- Multiple activities
+- Intents
+- Passing data between Activities
